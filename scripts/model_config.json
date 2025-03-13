@@ -1,0 +1,32 @@
+{
+    "deepseek-1.3b": {
+        "name": "deepseek-ai/deepseek-coder-1.3b-instruct",
+        "quantization": None,
+        "description": "DeepSeek Coder 1.3B - Lightweight, code-optimized",
+        "vram_est": "3GB"
+    },
+    "codet5p-770m": {
+        "name": "Salesforce/codet5p-770m",
+        "quantization": None,
+        "description": "CodeT5+ 770M - Efficient for code understanding",
+        "vram_est": "2GB"
+    },
+    "starcoderbase-1b": {
+        "name": "bigcode/starcoderbase-1b",
+        "quantization": None,
+        "description": "StarCoderBase 1B - Lightweight, no gating",
+        "vram_est": "2.5GB"
+    },
+    "polycoder-160m": {
+        "name": "NinedayWang/PolyCoder-160M",
+        "quantization": None,
+        "description": "PolyCoder 160M - Ultra-light, fast",
+        "vram_est": "1GB"
+    },
+    "codegen-350m": {
+        "name": "Salesforce/codegen-350M-mono",
+        "quantization": None,
+        "description": "CodeGen 350M Mono - Small and efficient",
+        "vram_est": "1.5GB"
+    }
+}

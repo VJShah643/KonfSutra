@@ -1,0 +1,111 @@
+{
+    "tmux": {
+        "config_paths": ["~/.tmux.conf", "/etc/tmux.conf"],
+        "log_paths": [],
+        "docs": ["tmux"]
+    },
+    "i3wm": {
+        "config_paths": ["~/.config/i3/config", "/etc/i3/config"],
+        "log_paths": ["~/.i3/log"],
+        "docs": ["i3"]
+    },
+    "nvim": {
+        "config_paths": ["~/.config/nvim/init.vim", "~/.config/nvim/init.lua"],
+        "log_paths": ["~/.local/state/nvim/log"],
+        "docs": ["nvim"]
+    },
+    "bash": {
+        "config_paths": ["~/.bashrc", "~/.bash_profile", "/etc/bash.bashrc"],
+        "log_paths": [],
+        "docs": ["bash"]
+    },
+    "zsh": {
+        "config_paths": ["~/.zshrc", "/etc/zsh/zshrc"],
+        "log_paths": [],
+        "docs": ["zsh"]
+    },
+    "google-chrome": {
+        "config_paths": ["~/.config/google-chrome/Default/Preferences"],
+        "log_paths": ["~/.config/google-chrome/chrome_debug.log"],
+        "docs": []
+    },
+    "vscode": {
+        "config_paths": ["~/.config/Code/User/settings.json"],
+        "log_paths": [],
+        "docs": []
+    },
+    "misc": {
+        "misc_man_pages": [
+            "ls",
+            "cd",
+            "pwd",
+            "cat",
+            "echo",
+            "grep",
+            "find",
+            "chmod",
+            "chown",
+            "ps",
+            "top",
+            "kill",
+            "curl",
+            "wget",
+            "tar",
+            "gzip",
+            "gunzip",
+            "zip",
+            "unzip",
+            "bzip2",
+            "ln",
+            "touch",
+            "mkdir",
+            "rmdir",
+            "rm",
+            "cp",
+            "mv",
+            "df",
+            "du",
+            "free",
+            "ifconfig",
+            "ip",
+            "hostname",
+            "systemctl",
+            "journalctl",
+            "service",
+            "sudo",
+            "apt",
+            "yum",
+            "dnf",
+            "pacman",
+            "brew",
+            "docker",
+            "docker-compose",
+            "docker-machine",
+            "git",
+            "git-status",
+            "git-clone",
+            "git-push",
+            "git-pull",
+            "git-merge",
+            "git-log",
+            "git-commit",
+            "git-branch",
+            "vim",
+            "nano",
+            "htop",
+            "ssh",
+            "scp",
+            "rsync",
+            "mount",
+            "umount",
+            "chroot",
+            "tar",
+            "journalctl",
+            "dd",
+            "strace",
+            "lsof",
+            "ncdu"
+        ]
+    }
+}
+

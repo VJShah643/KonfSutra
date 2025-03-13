@@ -1,0 +1,30 @@
+{
+    "system_configs": {
+        "config_paths": [
+            "/home/$USER/.config/conky",
+            "/home/$USER/.config/dunst",
+            "/home/$USER/.config/neofetch",
+            "/home/$USER/.config/nitrogen",
+            "/home/$USER/.config/NuGet",
+            "/home/$USER/.config/nvim",
+            "/home/$USER/.config/Optimus\\ Manager",
+            "/home/$USER/.config/pamac",
+            "/home/$USER/.config/pavucontrol.ini",
+            "/home/$USER/.config/picom.conf",
+            "/home/$USER/.config/qt5ct",
+            "/home/$USER/.config/QtProject.conf",
+            "/home/$USER/.config/ranger",
+            "/home/$USER/.config/scripts",
+            "/home/$USER/.config/terminator",
+            "/home/$USER/.config/Thunar",
+            "/home/$USER/.config/transmission",
+            "/home/$USER/.config/yay",
+            "/home/$USER/.bash_profile",
+            "/home/$USER/.i3",
+            "/home/$USER/.xinitrc",
+            "/home/$USER/.bashrc",
+            "/home/$USER/.zshrc",
+            "/etc/i3/config"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "tmux vertical split": "Ctrl-b %",
+    "tmux horizontal split": "Ctrl-b \"",
+    "tmux new window": "Ctrl-b c",
+    "tmux next pane": "Ctrl-b o",
+    "i3 vertical split": "Mod+v",
+    "i3 horizontal split": "Mod+h",
+    "i3 new terminal": "Mod+Enter",
+    "i3 next workspace": "Mod+Right",
+    "vim save file": ":w",
+    "vim quit": ":q",
+    "vim split vertical": ":vsplit",
+    "vim next buffer": ":bnext"
+}
